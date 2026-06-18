@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Paola Gonzalez
 =======================================================================================================================================
 
-A passionate software engeneer
+A passionate graphic designer turned into a software engineer
 -----------------------------------------
 
 In my final semester in my Graphic Design degree I found a passion for Web Development thanks to my proffessor. Thanks to her inspiration, I decided to fully study software engeneering.
